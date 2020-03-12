@@ -1,0 +1,24 @@
+.tile{
+    display: inline-flex;
+    background-color: #42b824;
+}
+
+
+.grass {
+    
+}
+
+.rock {
+    background-image: url('/tiles/rock.png');
+    
+}
+
+.chest {
+    background-image: url('/tiles/chest.png');
+    
+}
+
+.tree {
+    background-image: url('/tiles/tree.png');
+    
+}
